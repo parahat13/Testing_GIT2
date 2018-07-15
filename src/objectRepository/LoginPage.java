@@ -11,6 +11,8 @@ public class LoginPage {
 		System.out.println("Second  tester  added  some  code ");
 
 		System.out.println("Conflict has fixed");
+		
+		System.out.println("I want to add more codes");
 
 		System.out.println("I wan to add more  codes");
 
