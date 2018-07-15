@@ -16,6 +16,8 @@ public class LoginPage {
 		
 		System.out.println("I wan to add more  codes");
 		
+		String arrays[]= {"apple", "Sony"};
+		
 		for (int i = 0; i < args.length; i++) {
 			
 		}
