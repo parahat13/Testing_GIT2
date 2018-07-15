@@ -6,6 +6,7 @@ public class LoginPage {
 		System.out.println("Hello");
 		//
 		System.out.println("Second Tester  added  some code");
+		System.out.println("Second Tester  added  some code");
 	}
 
 }
