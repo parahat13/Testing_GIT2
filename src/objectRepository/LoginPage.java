@@ -8,45 +8,26 @@ public class LoginPage {
 
 		
 		System.out.println("First  tester  added  some  code ");
+
+		System.out.println("Second  tester  added  some  code ");
+		System.out.println("Second  tester  added  some  code ");
+
+		System.out.println("First  tester  added  second  code ");
+		
 		System.out.println("First  tester  added  second  code ");
 		
 		System.out.println("First  tester  added  some  code ");
+
+		System.out.println("Second  tester  added  some  code ");
+		System.out.println("Second  tester  added  some  code ");
+
 		System.out.println("First  tester  added  second  code ");
 		
-		System.out.println("First  tester  added  some  code ");
 		System.out.println("First  tester  added  second  code ");
+		
+		
 		
 
-		System.out.println("First  tester  added  some  code ");
-		System.out.println("First  tester  added  second  code ");
-		
-		System.out.println("First  tester  added  some  code ");
-		System.out.println("First  tester  added  second  code ");
-		
-		System.out.println("First  tester  added  some  code ");
-		System.out.println("First  tester  added  second  code ");
-		System.out.println("First  tester  added  some  code ");
-		System.out.println("First  tester  added  second  code ");
-		
-		System.out.println("First  tester  added  some  code ");
-		System.out.println("First  tester  added  second  code ");
-		
-		System.out.println("First  tester  added  some  code ");
-		System.out.println("First  tester  added  second  code ");
-		
-
-		System.out.println("First  tester  added  some  code ");
-		System.out.println("First  tester  added  second  code ");
-		
-		System.out.println("First  tester  added  some  code ");
-		System.out.println("First  tester  added  second  code ");
-		
-		System.out.println("First  tester  added  some  code ");
-		System.out.println("First  tester  added  second  code ");
-		
-		
-		
-		
 		
 
 	}
