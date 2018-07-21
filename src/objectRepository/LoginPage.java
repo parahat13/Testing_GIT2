@@ -35,6 +35,8 @@ public class LoginPage {
 		}
 		
 		System.out.println("tester 1  added  new  comment");
+		
+		System.out.println("TESTER 1  ADDS 2 ND COMMENT  AS WELL ");
 
 	}
 
