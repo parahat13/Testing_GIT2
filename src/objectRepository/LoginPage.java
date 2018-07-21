@@ -26,6 +26,10 @@ public class LoginPage {
 
 		}
 
+
+		
+		System.out.println("TESTER 2 ALSO  ADDS  NEW  COMMENT");
+
 		for (int i = 0; i < args.length; i++) {
 
 		}
@@ -35,6 +39,7 @@ public class LoginPage {
 		}
 		
 		System.out.println("tester 1  added  new  comment");
+
 
 	}
 
