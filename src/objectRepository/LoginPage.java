@@ -11,38 +11,29 @@ public class LoginPage {
 		System.out.println("Second  tester  added  some  code ");
 
 		System.out.println("Conflict has fixed");
-		
+
 		System.out.println("I want to add more codes");
 
 		System.out.println("I wan to add more  codes");
 
-
-
-		
-		String arrays[]= {"apple", "Sony"};
-		
+		String arrays[] = { "apple", "Sony" };
 
 		for (int i = 0; i < args.length; i++) {
 
 		}
 
+		for (int i = 0; i < args.length; i++) {
 
-		
-		
+		}
 
 		for (int i = 0; i < args.length; i++) {
 
 		}
-		
-		for (int i = 0; i < args.length; i++) {
 
-		}
-		
 		System.out.println("tester 1  added  new  comment");
 		System.out.println("TESTER 1  ADDS 2 ND COMMENT  AS WELL ");
 		System.out.println("TESTER 2 ALSO  ADDS  NEW  COMMENT");
 		System.out.println("tester 2  added  ONE MORE   comment");
-
 
 	}
 
