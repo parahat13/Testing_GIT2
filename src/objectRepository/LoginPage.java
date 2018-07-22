@@ -40,6 +40,8 @@ public class LoginPage {
 		
 		System.out.println("tester 1  added  new  comment");
 		System.out.println("tester 2  added  ONE MORE   comment");
+		System.out.println("tester 1  added  new  comment");
+		System.out.println("tester 2  added  ONE MORE   comment");
 
 	}
 
